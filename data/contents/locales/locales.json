@@ -1,0 +1,12 @@
+{
+    "blt817e6917b78780ee": {
+        "stackHeaders": {
+            "api_key": "blt233133334"
+        },
+        "urlPath": "/locales/es-es",
+        "code": "es-es",
+        "name": "Spanish - Spain",
+        "uid": "blt817e6917b78780ee",
+        "fallback_locale": "en-us"
+    }
+}

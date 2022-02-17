@@ -1,0 +1,48 @@
+[
+    {
+        "stackHeaders": {
+            "api_key": "blt233133334"
+        },
+        "urlPath": "/assets/bltcfaf3f588673bf6a",
+        "uid": "bltcfaf3f588673bf6a",
+        "content_type": "image/jpeg",
+        "file_size": "119696",
+        "tags": [],
+        "filename": "food-blog-banner.jpg",
+        "url": "https://images.contentstack.io/v3/assets/blt233133334/bltcfaf3f588673bf6a/606471433b423810745c85ba/food-blog-banner.jpg",
+        "ACL": {},
+        "is_dir": false,
+        "_version": 1,
+        "title": "food-blog-banner.jpg",
+        "publish_details": [
+            {
+                "environment": "blt02f91335cdb5e544",
+                "locale": "es-es",
+                "time": "2021-03-31T12:55:32.174Z",
+                
+                "version": 1
+            },
+            {
+                "environment": "bltedac9aaef6ef5918",
+                "locale": "es-es",
+                "time": "2021-03-31T12:55:32.174Z",
+                
+                "version": 1
+            },
+            {
+                "environment": "blt02f91335cdb5e544",
+                "locale": "en-us",
+                "time": "2021-03-31T12:55:32.181Z",
+                
+                "version": 1
+            },
+            {
+                "environment": "bltedac9aaef6ef5918",
+                "locale": "en-us",
+                "time": "2021-03-31T12:55:32.181Z",
+                
+                "version": 1
+            }
+        ]
+    }
+]

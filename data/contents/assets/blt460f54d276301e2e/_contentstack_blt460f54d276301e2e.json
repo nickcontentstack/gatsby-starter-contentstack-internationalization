@@ -1,0 +1,48 @@
+[
+    {
+        "stackHeaders": {
+            "api_key": "blt233133334"
+        },
+        "urlPath": "/assets/blt460f54d276301e2e",
+        "uid": "blt460f54d276301e2e",
+        "content_type": "image/jpeg",
+        "file_size": "23641",
+        "tags": [],
+        "filename": "Avatar_6.jpg",
+        "url": "https://images.contentstack.io/v3/assets/blt233133334/blt460f54d276301e2e/6064713cbacdec10a28667b0/Avatar_6.jpg",
+        "ACL": {},
+        "is_dir": false,
+        "_version": 1,
+        "title": "Avatar_6.jpg",
+        "publish_details": [
+            {
+                "environment": "blt02f91335cdb5e544",
+                "locale": "es-es",
+                "time": "2021-03-31T12:55:24.959Z",
+                
+                "version": 1
+            },
+            {
+                "environment": "bltedac9aaef6ef5918",
+                "locale": "es-es",
+                "time": "2021-03-31T12:55:24.959Z",
+                
+                "version": 1
+            },
+            {
+                "environment": "blt02f91335cdb5e544",
+                "locale": "en-us",
+                "time": "2021-03-31T12:55:24.967Z",
+                
+                "version": 1
+            },
+            {
+                "environment": "bltedac9aaef6ef5918",
+                "locale": "en-us",
+                "time": "2021-03-31T12:55:24.967Z",
+                
+                "version": 1
+            }
+        ]
+    }
+]

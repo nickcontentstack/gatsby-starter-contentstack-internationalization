@@ -1,0 +1,37 @@
+{
+    "bltedac9aaef6ef5918": {
+        "urlPath": "/environments/production",
+        "deploy_content": false,
+        "servers": [],
+        "urls": [
+            {
+                "url": "https://gatsby-starter-topaz.vercel.app",
+                "locale": "en-us"
+            }
+        ],
+        "name": "production",
+        "_version": 2,
+        
+        
+        "created_at": "2021-03-31T12:55:21.244Z",
+        "updated_at": "2021-03-31T12:55:21.244Z"
+    },
+    "blt02f91335cdb5e544": {
+        "stackHeaders": {
+            "api_key": "blt233133334"
+        },
+        "urlPath": "/environments/development",
+        "deploy_content": false,
+        "servers": [],
+        "urls": [
+            {
+                "url": "https://gatsby-starter-topaz.vercel.app",
+                "locale": "en-us"
+            }
+        ],
+        "name": "development",
+        "_version": 2,
+        "created_at": "2021-03-31T12:55:21.260Z",
+        "updated_at": "2021-03-31T12:55:21.260Z"
+    }
+}

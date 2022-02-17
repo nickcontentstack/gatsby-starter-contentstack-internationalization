@@ -1,0 +1,48 @@
+[
+    {
+        "stackHeaders": {
+            "api_key": "blt233133334"
+        },
+        "urlPath": "/assets/bltee41d33d2d642a1e",
+        "uid": "bltee41d33d2d642a1e",
+        "content_type": "image/png",
+        "file_size": "78256",
+        "tags": [],
+        "filename": "gaming-blog-post.png",
+        "url": "https://images.contentstack.io/v3/assets/blt233133334/bltee41d33d2d642a1e/60647146c1891a10c94711e3/gaming-blog-post.png",
+        "ACL": {},
+        "is_dir": false,
+        "_version": 1,
+        "title": "gaming-blog-post.png",
+        "publish_details": [
+            {
+                "environment": "blt02f91335cdb5e544",
+                "locale": "es-es",
+                "time": "2021-03-31T12:55:34.896Z",
+                
+                "version": 1
+            },
+            {
+                "environment": "bltedac9aaef6ef5918",
+                "locale": "es-es",
+                "time": "2021-03-31T12:55:34.896Z",
+                
+                "version": 1
+            },
+            {
+                "environment": "blt02f91335cdb5e544",
+                "locale": "en-us",
+                "time": "2021-03-31T12:55:34.905Z",
+                
+                "version": 1
+            },
+            {
+                "environment": "bltedac9aaef6ef5918",
+                "locale": "en-us",
+                "time": "2021-03-31T12:55:34.905Z",
+                
+                "version": 1
+            }
+        ]
+    }
+]
